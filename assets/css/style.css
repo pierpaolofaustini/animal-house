@@ -1,0 +1,128 @@
+/**************/
+/* all files  */
+/**************/
+
+body {
+	background-color: #00563B; 
+	color: white;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+/**************/
+/* index.html */
+/**************/
+
+.navbar-brand {
+	color: white;
+	padding-left: 2%;
+	padding-top: 2%;
+}
+
+#landing-row h3, p {
+	padding-top: 7%;
+	text-align: center;
+	padding-bottom: 3%;
+}
+
+#landing-buttons {
+	text-align: center;
+	padding-bottom: 5%;
+}
+
+/*********************/
+/* front-log-in.html */
+/* 	 sign-in.html	 */
+/*********************/
+
+.form {
+	margin-top: 10%;
+}
+
+/*************************/
+/* front-intro.html      */ 	
+/* back-intro.html       */
+/* anecdotes-wall.html 	 */
+/* anecdotes-change.html */
+/* front-game.html       */
+/* help-change.html      */
+/* help-wall.html        */
+/* leaderboard.html      */
+/* game.html          */
+/*************************/
+
+.welcomeQuote {
+	padding-top: 5%;
+	padding-bottom: 5%;
+}
+
+/***********************/
+/* anecdotes-wall.html */
+/* help-wall.html      */
+/***********************/
+
+#textArea {
+	border-radius: 0.7rem;
+}
+
+/**************************/
+/* leaderboard.html       */
+/* users-anagraphic.html  */
+/* anecdotes-change.html  */
+/*   help-change.html 	  */
+/**************************/
+
+.table-container {
+	/* center the container */
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/* remove lines between table rows (except the first one) */
+table>tbody>tr>td{
+	border: none
+}
+
+/********************/
+/* leaderboard.html */
+/********************/
+
+#welcomeLeaderboard {
+	padding-left: 2%;
+}
+
+/*****************************/
+/* users-anagraphic.html 	 */
+/*****************************/
+
+.welcomeQuoteUsers {
+	margin-top: 3%;
+	padding-bottom: 3%;
+}
+
+/********************/
+/*     game.html    */
+/********************/
+
+.center-game {
+	display: flex;
+	justify-content: center;
+}
+
+/******************/
+/* image-rec.html */
+/******************/
+
+#welcomeQuoteImg {
+	padding-top: 5%;
+	padding-bottom: 2%;
+}
+
+#imgLabel {
+	margin-top: 2%;
+}
+
+#imgInfo {
+	margin-top: 2%;
+	font-size: 1.4rem;
+}
+

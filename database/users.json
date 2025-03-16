@@ -1,0 +1,1 @@
+{"users":[{"name":"test1","email":"test1@gmail.com","password":"test1","favoriteAnimal":"dog","gameScore":"29","anecdotes":[{"content":"test1 anecdote! :) "}],"helpRequests":[{"content":"help me!"}]},{"name":"test2","email":"test2@gmail.com","password":"test2","favoriteAnimal":"cat","gameScore":"22","anecdotes":[],"helpRequests":[]}]}
